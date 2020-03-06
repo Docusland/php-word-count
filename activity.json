@@ -1,0 +1,11 @@
+{
+	goals:["Commencer les tests en php"],
+	sub-goals:["boucles et du test unitaire"],
+	title:"PHP Word Cound",
+	description: "PHP Word count",
+	id:"",
+	tags:["tdd","php","algorithm"],
+	duration:120,
+	language:["php"],
+	prerequirements:["none"],
+}
