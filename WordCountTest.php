@@ -1,6 +1,6 @@
 <?php
 
-require "src/word-count.php";
+require "WordCount.php";
 use PHPUnit\Framework\TestCase;
 class WordCountTest extends TestCase
 {

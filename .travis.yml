@@ -6,6 +6,6 @@ before_install:
     - chmod +x phpunit.phar
     - sudo mv phpunit.phar /usr/local/bin/phpunit
 script:
-    - phpunit *test.php --verbose
+    - phpunit *Test.php --verbose
 notifications:
     email: false
